@@ -2,14 +2,14 @@
 
 ![Homepage](https://github.com/kamalnyc17/GoogleBooksSearch/blob/master/Google%20Book%20Search.jpg)
 ## Overview
-1. This website allows users to scrape the NHL website for headlines and store it in MongoDB
+1. This is a MERN Full Stack Application with the backend Database being MongoDB
 
-2. User's can delete an article or click on the link to open it from directly NHL website
+2. User's can either search books by their title on Google Books or Search the saved Books from the database
 
-3. Users have the ability to add or remove comments on each articles
+3. For the books searched on Google Books, users can either view the book and/or save a snapshot in the database
 
-4. User's can open a article by clicking on the "folder" icon to see past comments as well as add new comments.
+4. Books that are already saved in the database users can view the book as well as delete the ones that are not relevant any more.
 
-Link to the deployed project:  https://kamalmongoscraper.herokuapp.com/
+Link to the deployed project:  https://kamalgooglebookssearch.herokuapp.com/
 
-Tools Used: Node.JS, Express.JS, MongoDB, Mongoose, RESTful API, JQuery, AJAX, JavaScript, HTML, CSS
+Tools Used: Node.JS, Express.JS, MongoDB, Mongoose, ReactJS, RESTful API, JavaScript, HTML, CSS
